@@ -10,6 +10,10 @@ Bu proje, Amazon üzerinde belirli ürünleri arayarak otomatik olarak sayfalar 
 
 Proje, özellikle test otomasyonu alanında çalışan yazılımcılar için etkili bir örnek teşkil eder.
 
+![Açıklama Metni](https://i.hizliresim.com/8wx4qs1.jpg)
+---
+![Açıklama Metni](https://i.hizliresim.com/jhec6fu.jpg)
+
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
